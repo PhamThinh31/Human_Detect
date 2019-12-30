@@ -15,7 +15,9 @@ scake==0.2.1
 ```
 ## Run
 
-Run file hog_train.py to get model SVM
-Change file name at YMAL file to test
-Run file run.py
+Run file hog_train.py to get model SVM.
+
+Change file name at YMAL file to test.
+
+Run file run.py.
 
